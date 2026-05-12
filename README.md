@@ -5,6 +5,8 @@ A real-time automotive dashboard simulator running on an ESP32-C3 microcontrolle
 
 Built with the ESP-IDF framework directly (no Arduino abstraction layer), targeting the RISC-V architecture via cross-compilation.
 
+https://github.com/user-attachments/assets/a45480d7-68a3-4b01-a238-e8d4bb770df1
+
 ---
 
 ## Hardware
